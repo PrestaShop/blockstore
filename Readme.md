@@ -1,5 +1,7 @@
 # Store locator block
 
+**This module has been archived, it’s no longer maintained but you still can fork it if you need it for your shop.**
+
 ## About
 
 Displays an image link to PrestaShop\'s store locator feature.
